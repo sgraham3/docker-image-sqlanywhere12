@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM alpine:3.14
 
 COPY ./sqlanywhere16 /opt/sqlanywhere16
 
