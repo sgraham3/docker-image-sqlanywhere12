@@ -1,4 +1,4 @@
-# SAP Sybase Anywhere 12
+# Sybase Anywhere 12
 
 ## Getting started
 
