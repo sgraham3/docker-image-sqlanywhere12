@@ -1,4 +1,4 @@
-# Sybase Anywhere 12
+# SQL Anywhere 12
 
 ## Getting started
 
